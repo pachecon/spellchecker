@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
@@ -185,3 +186,6 @@ pyenv/
 ### Version
 
 1.0.0
+=======
+# Spellchecker
+>>>>>>> 6563cd2fcca30149b8a2b1441bed503ca81be15c
