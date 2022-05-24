@@ -16,5 +16,5 @@ Metafone==0.5
 mysql_connector_repackaged==0.3.1
 pyenchant==3.2.0
 scikit_learn==0.24.0
-tensorflow==2.4.0
+tensorflow==2.6.4
 pyxdameraulevenshtein==1.7.0
